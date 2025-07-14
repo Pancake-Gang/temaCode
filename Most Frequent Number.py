@@ -17,5 +17,4 @@ for i in range(1, len(array) - 1):
         count = 1
         currentNumber = array[i]
 
-
-print(mostFrequent, highestCount)
+print(f"Most Frequent Number: {mostFrequent} \nFrequency: {highestCount}")
